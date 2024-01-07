@@ -1,0 +1,69 @@
+/* header benner section  */
+.benner{
+    width: 1320px;
+    height: 600px;
+    background-image: url('../images/Banner\ Image.png');
+    margin: 50px 140px;
+    text-align: center;
+}
+.benner-titel{
+    color: #FFFFFF;
+    padding-top: 120px;
+    font-family: Merriweather;
+}
+.benner-header{
+    font-size: 32px;
+    font-weight: 400;
+}
+.benner-content{
+    font-size: 72px;
+    font-weight: 900;
+}
+.benner-offer{
+    text-align: center;
+    margin-top: 120px;
+    line-height: 40px;
+}
+.offer-titel{
+    font-size: 88px;
+    font-weight: 700;
+    color: #FF0000;
+}
+.offer-titel-1{
+    font-size: 24px;
+    font-weight: 500px;
+    color: #FF0000;
+}
+.offer-titel-2{
+    font-size: 48px;
+    font-weight: 700;
+    color: #070211;
+}
+/* welcome section  */
+.welcome{
+    background-image: url('../images/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    margin: 120px 140px;
+}
+.welcome-titel {
+    width: 642px;
+    margin-left: 126px;
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+}
+.welcome-content{
+    width: 697px;
+    margin-left: 126px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+.btn-welcome{
+    margin-left: 126px;
+    font-size: 20px;
+}
